@@ -1,4 +1,5 @@
-public class PalindromeNumber {
+ class PalindromeNumber {
+
 
 
 
